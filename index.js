@@ -11,5 +11,8 @@ module.exports = {
     },
     chufa: function (a, b) {
         return a / b;
+    },
+    kexue: function (suanshi) {
+        return math.eval(suanshi);
     }
 }
