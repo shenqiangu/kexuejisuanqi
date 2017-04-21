@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "科学计算器",
+  "main": "index.js",
+  "author": "沈千古 <shenqiangu@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^3.12.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
+}
